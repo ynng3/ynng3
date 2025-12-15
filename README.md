@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alnori(Jun Yung Jae)</h1>
-<h3 align="center"><a href="https://www.sinsait.com/" target="blank">SinsaIT</a> CEO, <a href="https://eminentgroup.co.kr/" target="blank">Eminent Group</a> Frontend developer</h3>
+<h3 align="center"><a href="https://www.savvy-robotics.com/" target="blank">Savvy Robotics Corp.</a> Strategic Planning Team Employee, Frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ynng3&label=Profile%20views&color=0e75b6&style=flat" alt="ynng3" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Rust, Python, Node.js**
 
-- 💬 Ask me about **React, Node.js, HTML5**
+- 💬 Ask me about **React, Express.js, Next.js, HTML5, SCSS**
 
 - 📫 How to reach me **secunolja@gmail.com**
 
@@ -43,7 +43,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a>
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
-  <a href="https://nestjs.com" target="_blank" rel="noreferrer"> <img src="https://nestjs.com/logo-small-gradient.d792062c.svg" alt="nestjs" width="40" height="40" /> </a>
+  <a href="https://nestjs.com" target="_blank" rel="noreferrer"> <img src="https://nestjs.com/apple-touch-icon.5b633bff.png" alt="nestjs" width="40" height="40" /> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ynng3&show_icons=true&locale=en&layout=compact" alt="ynng3" /></p>
