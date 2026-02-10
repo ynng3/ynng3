@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alnori(Jun Yung Jae)</h1>
+<h1 align="center">Hi 👋, I'm Yung Jae</h1>
 <h3 align="center"><a href="https://www.savvy-robotics.com/" target="blank">Savvy Robotics Corp.</a> Strategic Planning Team Employee, Frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ynng3&label=Profile%20views&color=0e75b6&style=flat" alt="ynng3" /> </p>
